@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PasetoApiTesterProj/PasetoApiTesterProj.csproj" Id="58eb4393-5f75-4cae-a3dd-ce58cdb9158d" />
+  <Project Path="PasetoMinimalApi.csproj" />
+</Solution>

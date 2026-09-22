@@ -1,0 +1,6 @@
+@PasetoMinimalApi_HostAddress = http://localhost:5019
+
+GET {{PasetoMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

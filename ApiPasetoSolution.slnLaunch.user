@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PasetoApiTesterProj\\PasetoApiTesterProj.csproj",
+        "Action": "Start",
+        "DebugTarget": "PasetoApiTesterProj"
+      },
+      {
+        "Path": "PasetoMinimalApi\\PasetoMinimalApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      }
+    ]
+  }
+]

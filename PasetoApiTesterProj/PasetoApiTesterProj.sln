@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasetoMinimalApi", "..\PasetoMinimalApi\PasetoMinimalApi.csproj", "{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasetoApiTesterProj", "D:\API_TEST_PASETO\PasetoApiTesterProj\PasetoApiTesterProj.csproj", "{068D082E-5B16-9A35-2F30-0A30FFC836EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{068D082E-5B16-9A35-2F30-0A30FFC836EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068D082E-5B16-9A35-2F30-0A30FFC836EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068D082E-5B16-9A35-2F30-0A30FFC836EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068D082E-5B16-9A35-2F30-0A30FFC836EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF25283C-676C-4C26-990A-F922408E006C}
+	EndGlobalSection
+EndGlobal

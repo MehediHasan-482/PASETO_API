@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PasetoApiTesterProj/PasetoApiTesterProj.csproj" />
+  <Project Path="PasetoMinimalApi/PasetoMinimalApi.csproj" />
+</Solution>

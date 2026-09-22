@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\API_TEST_PASETO_api\\PasetoApiTesterProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F33CC2-97B4-F77D-8BE8-EE5AF2EBC511}|..\\PasetoMinimalApi\\PasetoMinimalApi.csproj|f:\\api_test_paseto_api\\pasetominimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\API_TEST_PASETO_api\\PasetoMinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PasetoMinimalApi\\Program.cs",
+              "ToolTip": "F:\\API_TEST_PASETO_api\\PasetoMinimalApi\\Program.cs",
+              "RelativeToolTip": "..\\PasetoMinimalApi\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:16:26.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
